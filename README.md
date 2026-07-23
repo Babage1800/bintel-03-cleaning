@@ -36,7 +36,7 @@ You'll work with these areas:
 ## Instructions (pro-analytics-02)
 
 Follow the
-[step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
+[step-by-step workflow guide](https://Babage1800.github.io/bintel-03-cleaning/workflow-b-apply-example-project/)
 to complete:
 
 1. Phase 1. **Start & Run**
@@ -78,7 +78,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/bintel-03-cleaning
+git clone https://github.com/Babage1800/bintel-03-cleaning
 
 cd bintel-03-cleaning
 code .
